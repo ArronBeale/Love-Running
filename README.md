@@ -1,4 +1,4 @@
-# Love Running Walkthrough Project
+# Love Running Project
 [Live Webpage](https://arronbeale.github.io/Love-Running/)
 ---
 This is a walkthrough project to create a responsive website for a running club to include locations, times and distances.\
